@@ -1,8 +1,34 @@
-### Hi there 👋
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/amiroulis21">Programmer</a>, <a href="https://www.linkedin.com/in/andrew-miroulis/">Computer Science Major</a>, </h1>
+
+<h2>👨‍💻 Academic Projects</h2>
+
+- <b></b>
+  - 
+- <b></b>
+  -
+- <b></b>
+  - 
+  - 
+  - 
+  - 
+- <b></b>
+  - 
+  - 
+  - 
+- <b></b>
+  - 
+
+<h2>📺 Leetcode</h2>
+
+-  
+
+<h2> 🤳 Contact me:</h2>
+
+[<img align="left" alt="AndrewMiroulis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/andrew-miroulis
 
 <!--
-**amiroulis21/amiroulis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
