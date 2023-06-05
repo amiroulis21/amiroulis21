@@ -1,22 +1,7 @@
 <h1>Hi, I'm Andrew! <br/><a href="https://github.com/amiroulis21">Programmer</a>, <a href="https://www.linkedin.com/in/andrew-miroulis/">Computer Science Major</a>, </h1>
 
-<h2> Academic Projects</h2>
+<h2> Academic</h2>
 
-- <b></b>
-  - 
-- <b></b>
-  -
-- <b></b>
-  - 
-  - 
-  - 
-  - 
-- <b></b>
-  - 
-  - 
-  - 
-- <b></b>
-  - 
 
 <h2> Coding Profiles</h2>
 
