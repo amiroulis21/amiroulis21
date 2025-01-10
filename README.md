@@ -2,6 +2,7 @@
 
 <h2> Academic</h2>
 
+- [Academic Programs](https://github.com/amiroulis21/Academic/)
 
 <h2> Coding Profiles</h2>
 
